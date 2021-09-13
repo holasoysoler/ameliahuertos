@@ -17,7 +17,14 @@ const About = () => {
                         me he especializado en gestión de proyectos europeos. Creo que los negocios 
                         y proyectos locales son el corazón de una región, por eso quiero ayudar a todas las personas emprendedoras 
                         a destacar y tener una mayor visibilidad, 
-                        facilitando soluciones. 
+                        facilitando soluciones. Si visitas mi proyecto  <a
+                            href="https://estudio-lahoguera.es/"
+                            className={"transition-colors hover:text-green-500"}
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            LaHoguera
+                        </a> podrás conocer un poco más sobre mis trabajos.
                         </p>
                     </div>
                 </div>
