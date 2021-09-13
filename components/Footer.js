@@ -11,7 +11,7 @@ const Footer = () => {
                         
                         <a
                             href="https://www.instagram.com/ameliahuertos/"
-                            className={"transition-colors hover:text-yellow-500"}
+                            className={"transition-colors hover:text-green-500"}
                             target="_blank"
                             rel="noreferrer"
                         >
@@ -20,11 +20,20 @@ const Footer = () => {
                         
                         <a
                             href="https://www.linkedin.com/in/amelia-h-550b4a12a/"
-                            className={"transition-colors hover:text-yellow-500"}
+                            className={"transition-colors hover:text-green-500"}
                             target="_blank"
                             rel="noreferrer"
                         >
                             LinkedIn
+                        </a>
+
+                        <a
+                            href="https://estudio-lahoguera.es/"
+                            className={"transition-colors hover:text-green-500"}
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            LaHoguera
                         </a>
                         
                         
