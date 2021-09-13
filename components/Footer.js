@@ -14,7 +14,7 @@ const Footer = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            Twitter
+                            ameliahuertos@gmail.com
                         </a>
                         <a
                             href="https://www.linkedin.com/in/amelia-h-550b4a12a/"
