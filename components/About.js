@@ -12,10 +12,12 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a
-                            type specimen book.
+                        Soy Amelia, Graduada en Marketing e investigación de mercados, 
+                        con master en gestión cultural y apasionada por la cultura. En los últimos años
+                        me he especializado en gestión de proyectos europeos. Creo que los negocios 
+                        y proyectos locales son el corazón de una región, por eso quiero ayudar a todas las personas emprendedoras 
+                        a destacar y tener una mayor visibilidad, 
+                        facilitando soluciones. 
                         </p>
                     </div>
                 </div>
