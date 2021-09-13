@@ -12,7 +12,7 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">
-                        Soy Amelia, Graduada en Marketing e investigación de mercados, 
+                        Soy Amelia, graduada en Marketing e investigación de mercados, 
                         con master en gestión cultural y apasionada por la cultura. En los últimos años
                         me he especializado en gestión de proyectos europeos. Creo que los negocios 
                         y proyectos locales son el corazón de una región, por eso quiero ayudar a todas las personas emprendedoras 
