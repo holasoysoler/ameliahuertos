@@ -12,14 +12,7 @@ const Footer = () => {
                         >
                             ameliahuertos@gmail.com
                         </a>
-                        <a
-                            href="https://www.linkedin.com/in/amelia-h-550b4a12a/"
-                            className={"transition-colors hover:text-yellow-500"}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            LinkedIn
-                        </a>
+                        
                         <a
                             href="https://www.instagram.com/ameliahuertos/"
                             className={"transition-colors hover:text-yellow-500"}
@@ -28,6 +21,16 @@ const Footer = () => {
                         >
                             Instagram
                         </a>
+                        
+                        <a
+                            href="https://www.linkedin.com/in/amelia-h-550b4a12a/"
+                            className={"transition-colors hover:text-yellow-500"}
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            LinkedIn
+                        </a>
+                        
                         
                     </div>
                 </div>
