@@ -17,7 +17,7 @@ const Footer = () => {
                             Twitter
                         </a>
                         <a
-                            href="#"
+                            href="https://www.linkedin.com/in/amelia-h-550b4a12a/"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
@@ -25,7 +25,7 @@ const Footer = () => {
                             LinkedIn
                         </a>
                         <a
-                            href="#"
+                            href="https://www.instagram.com/ameliahuertos/"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
